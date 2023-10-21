@@ -1,5 +1,5 @@
 # QA-Assessment-Task
-The tasl includes 3 subtask:
+The task includes 3 subtasks:
 1. Find bugs at https://qatest-dev.indvp.com/ and create test cases for their verification
 2. Create a requirement documentation
 3. Create test scenarios for ERP Integration
